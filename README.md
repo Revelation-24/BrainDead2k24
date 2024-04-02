@@ -1,1 +1,3 @@
-# BrainDead2k24
+# BrainDead 🧠
+Data Analysis and Machine Learning Competition:
+
