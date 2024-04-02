@@ -1,5 +1,6 @@
 # BrainDead 🧠
-![IMG-20240401-WA0007](https://github.com/Revelation-24/BrainDead2k24/assets/165821528/6fa326f6-baff-406c-a4cf-ee2ba30a449c)
+
+<img src="https://github.com/Revelation-24/BrainDead2k24/assets/165821528/c6327ea6-5cd9-4185-a8ce-4246e80743a3" style="width: 100%; height: auto;">
 
 
 ## Data Analysis and Machine Learning Competition
