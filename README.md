@@ -124,5 +124,68 @@ Deliverables:
   | 8    | Flamingo | 0.700 |
   | 9    | CLIP | 0.661 |
 
+- Documentation outlining the architecture, training methodology, and key insights behind the developed model(s).
+- Predictions for a separate test set of memes, showcasing the model's effectiveness in real-world scenarios.
+- Analysis of the model's performance metrics, including accuracy, precision, recall, F1 score, area under the ROC curve (AUC), and confusion matrix analysis.
+- Insights into optimization strategies aimed at reducing computational overhead while maintaining model efficacy.
+- Division of the dataset into training (80%) and test (20%) sets, ensuring proper evaluation and validation of the model's performance.
+- Comparative results of the proposed model with similar datasets A and B, including performance metrics and insights gained from the comparison. This will show that your proposed model is not dependent on the dataset.
+- Data Set A Link: [brain_dead_harmful_data_for_covid19](https://www.kaggle.com/datasets/braindead2k24/brain-dead-harmful-data-for-covid19)
+https://www.kaggle.com/datasets/braindead2k24/brain-dead-harmful-data-for-covid19
+- Data Set B Link: [brain_dead_harmful_data_for_politics](https://www.kaggle.com/datasets/braindead2k24/brain-dead-harmful-data-for-politics)
+https://www.kaggle.com/datasets/braindead2k24/brain-dead-harmful-data-for-politics
+
+Environment for coding:
+
+Everyone should use the mentioned environments for coding. Google Colab Or Your System, Jupyter Notebook, TensorFlow, Keras, Python, PyTorch, etc. Your notebook name should be in this (team_name_brain_dead_2k24.ipynb) format.
+
+
+Submission Guideline:
+- Submission via UnStop.
+- If there is an issue, You can
+- Contact Us at braindead2k24@gmail.com.
+Join WhatsApp Group: Link
+
+A complete report of the methodology employed in your work and the source code of your best pipelines for each selected dataset. The report should be concise. This report might include references, tables, figures, and results.
+
+Everyone should submit their code between 04/04/2024 at 10 AM to 06/04/2024 at 10 AM.
+
+Marking criteria:
+- Upload your code to Github. Create an account if you don’t have one. Make sure your repository is public. Your report should have most of these:
+- Writing Style, references, figures, etc.
+- Dataset exploration
+- Methodology
+- Results of analysis
+- Comparative study
+- Pipeline architecture you used
+Conclusion
+N.B. - Plagiarism Must be Checked During Evaluation:
+
+All submissions will be subject to thorough plagiarism checks during the evaluation process to ensure originality and integrity 
+
+
+Dataset credits
+* Problem Statement 1: 
+Ministry of Agriculture and Farmers’ Welfare, Government of India.
+** Problem Statement 2:
+ Kiela, Douwe, Hamed Firooz, Aravind Mohan, Vedanuj Goswami, Amanpreet Singh, Pratik Ringshia, and Davide Testuggine. "The hateful memes challenge: Detecting hate speech in multimodal memes." Advances in neural information processing systems 33 (2020): 2611-2624.
+Pramanick, Shraman, Dimitar Dimitrov, Rituparna Mukherjee, Shivam Sharma, Md Shad Akhtar, Preslav Nakov, and Tanmoy Chakraborty. "Detecting harmful memes and their targets." arXiv preprint arXiv:2110.00413 (2021).
+
+
+Submission Format:
+
+1. Table of Contents:
+2. Introduction:
+3. Dataset Prepossing:
+4. Model Architecture and Training Methodology:
+5. Performance Evaluation:
+6. Results and Discussion:
+7. Summary of model performance on the test set.
+8. Optimization Strategies:
+9. Conclusion:
+10. References:
+
 </h3>
+
+
 
