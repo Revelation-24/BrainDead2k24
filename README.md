@@ -35,3 +35,8 @@ You can submit whichever question you can solve. However, your score for the uns
 
 If you submit the report for Problem Statement 1 but not the .iPython notebook for Problem Statement 1 (or vice versa), your score for that problem will be 0.
 </h3>
+
+<hr>
+
+<h1>Problem Statement 1: Analyze Rice Production Data In India and Predict Rice Production in Indian States/Union Territories.                                                     
+                                                                                                                            Marks- 40</h1>
