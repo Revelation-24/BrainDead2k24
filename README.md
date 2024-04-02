@@ -1,3 +1,11 @@
+[![Visits Badge](https://badges.pufler.dev/visits/YourUsername/YourRepository)](https://github.com/Revelation-24/BrainDead2k24)
+
+
+<a href="https://twitter.com/intent/tweet?text=Check%20out%20This%20Awesome%20ML%20Hackathon%21&url=https%3A%2F%2Fgithub.com%2FRevelation-24%2FBrainDead2k24"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter" width="150" height="30"></a>
+<a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fgithub.com%2FRevelation-24%2FBrainDead2k24"><img src="https://img.shields.io/badge/LinkedIn-Share-blue" alt="LinkedIn" width="150" height="30"></a>
+<a href="https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2FRevelation-24%2FBrainDead2k24"><img src="https://img.shields.io/badge/Reddit-Share-orange" alt="Reddit" width="150" height="30"></a>
+
+
 # BrainDead 🧠
 
 <img src="https://github.com/Revelation-24/BrainDead2k24/assets/165821528/c6327ea6-5cd9-4185-a8ce-4246e80743a3" style="width: 100%; height: auto;">
