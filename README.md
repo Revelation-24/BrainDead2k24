@@ -18,7 +18,9 @@ We believe in your potential to tackle these challenges head-on and demonstrate 
 <h3>Contact Us at braindead2k24@gmail.com.
 Join WhatsApp Group: Link
 
-For Problem Statement 1 and  Problem Statement 2, prepare a concise report in .pptx or .pdf format and append it with the report you prepared in Problem Statement 1. Upload your .iPython notebook to Github and share the link with your repository via UnStop. Ensure that the repository is public.
+For Problem Statement 1 and  Problem Statement 2, prepare a concise report in .pptx or .pdf format and append it with the report you prepared in Problem Statement 1. 
+Upload your .iPython notebook to Github and share the link with your repository via UnStop. 
+Ensure that the repository is public.
 Long story short, create a single concise report covering both the problem statements (if you have solved both), and upload the code for Problems 1 and 2 to Github.
 Remember:
 Both problem statements are compulsory.
