@@ -42,7 +42,7 @@ If you submit the report for Problem Statement 1 but not the .iPython notebook f
                                                                                                                             
    Marks- 40</h2>
 
- <h3>Challenge Description:
+ <h3> Challenge Description:
 In this challenge, participants are tasked with predicting the production of rice on a state-wise or union territory-wise basis. The dataset provided spans from the agricultural sessions of 2004-2005 to 2022-2023, detailing the quantity of rice produced annually.
 
 Analysis Goals:
@@ -74,11 +74,20 @@ Table 2 contains 34 rows and 11 columns and
 
 Table 3 contains the source of the data (actually for data analysis and prediction there is no need of Table 3).
 
-The first row of both Table 1 and Table 2 contains the title of the dataset.
+- The first row of both Table 1 and Table 2 contains the title of the dataset.
+- From the second row, the dataset’s first column contains the name of the State/Union Territory, and the other columns contain the year-wise production of rice. 
+- The last row contains the year-wise all-over rice production in India.
 
-From the second row, the dataset’s first column contains the name of the State/Union Territory, and 
+# Deliverables:
+A complete report of the analysis of the dataset and methodology employed in your work. The report should be concise. This report might include references, tables, figures, and results. The methodology used for prediction must be clear. The file format should be either a ppt or a pdf. If you are using tools like Excel, also mention the Excel formulas that you used for the analysis.
+Will also submit the source code for the production of rice for the next 5 years. 
 
-the other columns contain the year-wise production of rice. 
+Marking Criteria:
+Participants will be evaluated based on the following criteria:
+- Writing style, references, and presentation of findings.
+- Dataset exploration.
+- Methodologies employed for analysis and prediction.
+- Source Code
+- Results and discussion.
 
-The last row contains the year-wise all-over rice production in India.
 </h3>
