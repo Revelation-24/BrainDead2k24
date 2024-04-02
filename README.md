@@ -111,9 +111,18 @@ Deliverables:
 
 - A novel multimodal machine learning model is designed for classifying multimodal harmful internet memes that can handle images and text together.
 - Trained model(s) demonstrating superior performance compared to existing benchmark models (a few best classification benchmarks are given below).
-  |Rank| |Model| |ROC AUC|
-  |----| |-----| |-------|
-  |1| |Pali-X-VPD| |0.892|
+  
+  | Rank | | Model | | ROC AUC |
+  | ---- | | ----- | | ------- |
+  | 1    | | Pali-X-VPD | | 0.892 |
+  | 2    | | RGCL - HateCLIPper | | 0.867 |
+  | 3    | | HateCLIPper - Align | | 0.858 |
+  | 4    | | ISSUES | | 0.855 |
+  | 5    | | Vilio | | 0.825 |
+  | 6    | | HateDetectron27 | | 0.811 |
+  | 7    | | SEER | | 0.734 |
+  | 8    | | Flamingo | | 0.700 |
+  | 9    | | CLIP | | 0.661 |
 
 </h3>
 
