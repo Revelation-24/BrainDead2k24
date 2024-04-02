@@ -47,12 +47,15 @@ In this challenge, participants are tasked with predicting the production of ric
 
 Analysis Goals:
 Analyze the dataset and derive meaningful insights from the data.
+
 Here are some examples that you might consider for your analysis:
-How does production vary from state to state (through bar charts, pie charts, etc.)?
-What is the state-wise rate of production?
-For which provinces there is need to improve their production of rice.
-You can use other instances, such as state-wise and year-wise rainfall in India. (Data link must be provided if including any instance)
-Present your analysis in a report. You can use charts, tables, and graphs to elaborate your analysis. In the end, any prediction model should be used to predict the state-wise/union territory-wise production of rice for the next 5 years.
+
+- How does production vary from state to state (through bar charts, pie charts, etc.)?
+- What is the state-wise rate of production?
+- For which provinces there is need to improve their production of rice.
+- You can use other instances, such as state-wise and year-wise rainfall in India. (Data link must be provided if including any instance)
+- Present your analysis in a report. You can use charts, tables, and graphs to elaborate your analysis.
+- In the end, any prediction model should be used to predict the state-wise/union territory-wise production of rice for the next 5 years.
 
 Tools for Analysis:
 
@@ -65,8 +68,17 @@ Dataset Link:  ([brain-dead-rice-production-data-in-india](http://www.kaggle.com
 https://www.kaggle.com/datasets/braindead2k24/brain-dead-rice-production-data-in-india
 
 Dataset Description:
-The dataset is divided into three tables, from which Table 1 contains 34 rows and 10 columns, Table 2 contains 34 rows and 11 columns and Table 3 contains the source of the data (actually for data analysis and prediction there is no need of Table 3).
-The first row of both Table 1 and Table 2 contains the title of the dataset. 
-From the second row, the dataset’s first column contains the name of the State/Union Territory, and the other columns contain the year-wise production of rice. 
+The dataset is divided into three tables, from which Table 1 contains 34 rows and 10 columns, 
+
+Table 2 contains 34 rows and 11 columns and 
+
+Table 3 contains the source of the data (actually for data analysis and prediction there is no need of Table 3).
+
+The first row of both Table 1 and Table 2 contains the title of the dataset.
+
+From the second row, the dataset’s first column contains the name of the State/Union Territory, and 
+
+the other columns contain the year-wise production of rice. 
+
 The last row contains the year-wise all-over rice production in India.
 </h3>
