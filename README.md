@@ -40,4 +40,4 @@ If you submit the report for Problem Statement 1 but not the .iPython notebook f
 
 <h2>Problem Statement 1: Analyze Rice Production Data In India and Predict Rice Production in Indian States/Union Territories.                                                     
                                                                                                                             
-                                                                                                                               Marks- 40</h2>
+   Marks- 40</h2>
