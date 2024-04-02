@@ -38,12 +38,12 @@ If you submit the report for Problem Statement 1 but not the .iPython notebook f
 
 <hr>
 
-<h2>Problem Statement 1: Analyze Rice Production Data In India and Predict Rice Production in Indian States/Union Territories.                                                     
-                                                                                                                            
-   Marks- 40</h2>
+# Problem Statement 1: Analyze Rice Production Data In India and Predict Rice Production in Indian States/Union Territories. (Marks- 40)
 
- <h3> Challenge Description:
-In this challenge, participants are tasked with predicting the production of rice on a state-wise or union territory-wise basis. The dataset provided spans from the agricultural sessions of 2004-2005 to 2022-2023, detailing the quantity of rice produced annually.
+<h3> Challenge Description:
+In this challenge, participants are tasked with predicting the production of rice on a state-wise or union territory-wise basis. 
+
+The dataset provided spans from the agricultural sessions of 2004-2005 to 2022-2023, detailing the quantity of rice produced annually.
 
 Analysis Goals:
 Analyze the dataset and derive meaningful insights from the data.
@@ -78,7 +78,7 @@ Table 3 contains the source of the data (actually for data analysis and predicti
 - From the second row, the dataset’s first column contains the name of the State/Union Territory, and the other columns contain the year-wise production of rice. 
 - The last row contains the year-wise all-over rice production in India.
 
-# Deliverables:
+Deliverables:
 A complete report of the analysis of the dataset and methodology employed in your work. The report should be concise. This report might include references, tables, figures, and results. The methodology used for prediction must be clear. The file format should be either a ppt or a pdf. If you are using tools like Excel, also mention the Excel formulas that you used for the analysis.
 Will also submit the source code for the production of rice for the next 5 years. 
 
@@ -91,3 +91,29 @@ Participants will be evaluated based on the following criteria:
 - Results and discussion.
 
 </h3>
+
+
+# Problem Statement 2: Detecting Multimodal Hate Speech in Internet Memes. (Marks 60)
+
+<h3>
+ Problem Statement:
+ 
+This competition aims to develop a novel multimodal machine learning model for classifying harmful internet memes that surpasses existing benchmark models while requiring less computation power. Internet memes, combining images and text, are pervasive online, but some carry harmful messages, necessitating effective detection methods. The challenge lies in creating a model that efficiently leverages both image and text data to identify harmful content accurately. Participants will be provided with a dataset containing labeled memes and tasked with training a model capable of achieving superior performance compared to existing benchmarks while optimizing computational efficiency.
+
+Dataset Link: ([brain_dead_multimodal_data_for_hateful_meme](https://www.kaggle.com/datasets/braindead2k24/brain-dead-multimodal-data-for-hateful-meme))
+https://www.kaggle.com/datasets/braindead2k24/brain-dead-multimodal-data-for-hateful-meme
+
+Dataset Description:
+
+The dataset provided for this competition comprises 10,000 data points, each representing an internet meme and containing both image and text data. The image data is stored in a folder named "img," housing a diverse collection of meme images. Meanwhile, the text data is organized within a CSV file, where each row corresponds to a meme and includes the meme's ID, associated text, and class label denoting harmful (1) or non-harmful (0). To facilitate multimodal analysis, participants will integrate both image and text data during model development, associating each meme's text with its corresponding image using the provided meme ID. This dataset serves as a foundation for training and evaluating advanced multimodal machine learning models aimed at accurately classifying harmful memes while optimizing computational efficiency.
+
+Deliverables:
+
+- A novel multimodal machine learning model is designed for classifying multimodal harmful internet memes that can handle images and text together.
+- Trained model(s) demonstrating superior performance compared to existing benchmark models (a few best classification benchmarks are given below).
+  |Rank| |Model| |ROC AUC|
+  |----| |-----| |-------|
+  |1| |Pali-X-VPD| |0.892|
+
+</h3>
+
