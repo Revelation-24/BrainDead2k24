@@ -132,7 +132,7 @@ The dataset provided for this competition comprises **10,000 data points**, each
 - Division of the dataset into training (80%) and test (20%) sets, ensuring proper evaluation and validation of the model's performance.
 - **Comparative results** of the proposed model with **similar datasets A and B**, including performance metrics and insights gained from the comparison. This will show that your proposed model is not dependent on the dataset
   
-**Data Set A Link:** [brain_dead_harmful_data_for_covid19](https://www.kaggle.com/datasets/braindead2k24/brain-dead-harmful-data-for-covid19)
+**Data Set A Link:** [brain_dead_harmful_data_for_covid19](https://www.kaggle.com/datasets/braindeadiiest/brain-dead-harmful-data-for-covid19)
 
 **Data Set B Link:** [brain_dead_harmful_data_for_politics](https://www.kaggle.com/datasets/braindeadiiest/brain-dead-harmful-data-for-politics?rvi=1)
 
