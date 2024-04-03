@@ -65,7 +65,7 @@ Participants may use the following tools for analysis:
 - Tableau/PowerBI
 - Jupyter Notebook/Google Colab with Matplotlib
 
-***Dataset Link:*** [BrainDead Rice Production Data in India](https://www.kaggle.com/datasets/braindead2k24/brain-dead-rice-production-data-in-india)
+***Dataset Link:*** [BrainDead Rice Production Data in India](https://www.kaggle.com/datasets/braindeadiiest/brain-dead-rice-production-data-in-india?rvi=1)
 
 ***Dataset Description:***
 
@@ -102,7 +102,7 @@ Participants will be evaluated based on the following criteria:
 
 This competition aims to develop a **novel multimodal machine learning model** for classifying harmful internet memes that surpasses existing benchmark models while requiring less computation power. Internet memes, combining images and text, are pervasive online, but some carry harmful messages, necessitating effective detection methods. The challenge lies in creating a model that efficiently leverages **both image and text data** to identify **harmful content accurately**. Participants will be provided with a **dataset** containing labeled memes and tasked with training a model capable of achieving superior **performance compared to existing benchmarks while optimizing computational efficiency.**
 
-***Dataset Link:*** [BrainDead Multimodal Data for Hateful Meme](https://www.kaggle.com/datasets/braindead2k24/brain-dead-multimodal-data-for-hateful-meme)
+***Dataset Link:*** [BrainDead Multimodal Data for Hateful Meme](https://www.kaggle.com/datasets/braindeadiiest/brain-dead-multimodal-data-for-hateful-meme?rvi=1)
 
 ***Dataset Description:***
 
@@ -134,7 +134,7 @@ The dataset provided for this competition comprises **10,000 data points**, each
   
 **Data Set A Link:** [brain_dead_harmful_data_for_covid19](https://www.kaggle.com/datasets/braindead2k24/brain-dead-harmful-data-for-covid19)
 
-**Data Set B Link:** [brain_dead_harmful_data_for_politics](https://www.kaggle.com/datasets/braindead2k24/brain-dead-harmful-data-for-politics)
+**Data Set B Link:** [brain_dead_harmful_data_for_politics](https://www.kaggle.com/datasets/braindeadiiest/brain-dead-harmful-data-for-politics?rvi=1)
 
 ---
 
