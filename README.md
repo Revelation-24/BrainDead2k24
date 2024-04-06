@@ -145,7 +145,7 @@ Everyone should use the mentioned environments for coding. Google Colab Or Your 
 - Submission via [UnStop](https://unstop.com/hackathons/braindead-revelation-24-indian-institute-of-engineering-science-and-technology-iiest-shibpur-938823).
 - If there is an issue, You can contact us at [braindead2k24@gmail.com](mailto:braindead2k24@gmail.com).
 - Join WhatsApp Group: [Link](https://chat.whatsapp.com/GcpwnMp4JrpJFI4qRUZBsn)
-- A complete report of the methodology employed in your work and the source code of your best pipelines for each selected dataset. The report should be concise. This report might include references, tables, figures, and results. Everyone should submit their code between 04/04/2024 at 10 AM to 06/04/2024 at 10 AM.
+- A complete report of the methodology employed in your work and the source code of your best pipelines for each selected dataset. The report should be concise. This report might include references, tables, figures, and results. Everyone should submit their code between 04/04/2024 at 10 AM to 06/04/2024 at 11:59 PM.
 
 
 ***Submission Format:***
